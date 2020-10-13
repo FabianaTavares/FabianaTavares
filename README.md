@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi I'am Fabiana Tavares 👋
 
 <!--
 **FabianaTavares/FabianaTavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+My name is Fabiana, and I'm currently an Angular frontend. I work in the area since 2011 when I majored in Internet Systems Technology. Since then I've worked with Delphi, VB6, Java and mainly PHP backend. And for the past 4 years I have dedicated myself to frontEnd. I am Brazilian and I live in the city of BH.
+Here are some ideas:
+
+- 🔭 I’m currently working on Angular 7
+- 🌱 I’m currently learning React and Vue
+- 😄 Pronouns: persevering
+- ⚡ Fun fact: All things Motorcycle and outdoor live.
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FabianaTavares)](https://github.com/FabianaTavares)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kmsdeaventuras/)](https://www.linkedin.com/in/kmsdeaventuras/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/FabiTavaresBest)](https://twitter.com/FabiTavaresBest)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/kmsdeaventuras)](https://www.youtube.com/kmsdeaventuras)
+
+# 🚀 Skills: Languages and Tools
+
+These are some of the technologies and tools that I work with:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></code>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+[https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white]
+
