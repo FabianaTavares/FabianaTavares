@@ -13,7 +13,7 @@ Here are some ideas:
 - ⚡ Fun fact: All things Motorcycle and outdoor live.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FabianaTavares)](https://github.com/FabianaTavares)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kmsdeaventuras/)](https://www.linkedin.com/in/kmsdeaventuras/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabianatavares1/)](https://www.linkedin.com/in/fabianatavares1/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/FabiTavaresBest)](https://twitter.com/FabiTavaresBest)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/kmsdeaventuras)](https://www.youtube.com/kmsdeaventuras)
 
