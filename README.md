@@ -53,6 +53,6 @@ These are some of the technologies and tools that I work with:
 <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&amp;logo=jira">
 <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white">
-<img src="https://img.shields.io/badge/-swagger-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-swagger-339933?style=for-the-badge"/>
 
 </p>
