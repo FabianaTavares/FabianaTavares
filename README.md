@@ -39,7 +39,7 @@ These are some of the technologies and tools that I work with:
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Git-black?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=github">
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white">
