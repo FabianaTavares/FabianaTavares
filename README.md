@@ -41,17 +41,17 @@ These are some of the technologies and tools that I work with:
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=github" style="max-width:100%;">
-<img src="https://camo.githubusercontent.com/61cea5f87bb65d552a37201dd705fbdac0f4e52a331564eaf802ac4b422ccc46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f6674253230417a7572652d3030383944363f7374796c653d666c61742d737175617265266c6f676f3d6d6963726f736f66742d617a757265266c6f676f436f6c6f723d7768697465" alt="Microsoft Azure" data-canonical-src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white" style="max-width:100%;">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=github">
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
-<img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
-<img src ="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://camo.githubusercontent.com/a95eb8afd7ec4675e0d4888b07848a18ca7a23421d9a8b9e9c61d4c01e984948/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a4952412d3030353243433f7374796c653d666c61742d737175617265266c6f676f3d6a697261" alt="JIRA" data-canonical-src="https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&amp;logo=jira" style="max-width:100%;">
+<img src="https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&amp;logo=jira">
 <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white">
 <img src="https://img.shields.io/badge/-swagger-brightgreen?style=for-the-badge"/>
 
