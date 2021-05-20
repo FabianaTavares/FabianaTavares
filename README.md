@@ -44,7 +44,7 @@ These are some of the technologies and tools that I work with:
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=github">
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?&style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
