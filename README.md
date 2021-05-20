@@ -7,7 +7,7 @@
 My name is Fabiana, and I'm currently an Angular frontend. I work in the area since 2011 when I majored in Internet Systems Technology. Since then I've worked with Delphi, VB6, Java and mainly PHP backend. And for the past 4 years I have dedicated myself to frontEnd. I am Brazilian and I live in the city of BH.
 Here are some ideas:
 
-- 🔭 I’m currently working on Angular 7
+- 🔭 I’m currently working on Angular 10
 - 🌱 I’m currently learning React and Vue
 - 😄 Pronouns: persevering
 - ⚡ Fun fact: All things Motorcycle and outdoor live.
@@ -20,6 +20,9 @@ Here are some ideas:
 ### 🚀 Skills: Languages and Tools
 
 These are some of the technologies and tools that I work with:
+
+<code>First: [![Love Angular badge](https://img.shields.io/badge/angular-love-blue?logo=angular&angular=love)](https://www.github.com/angular/angular)
+</code>
 
 <code><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
