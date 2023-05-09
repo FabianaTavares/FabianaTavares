@@ -78,5 +78,5 @@ These are some of the technologies and tools that I work with:
 - Angular - Loiane Groner - 2020.
 - Java Básico - Loiane Groner - 2018.
 
-- To continue viewing courses with certifications and other knowledge just access, just access the [link do profile!](https://github.com/FabianaTavares/FabianaTavares/sub-readme/README.md)
-- Para continuar visualizando cursos com certificações e outros conhecimentos basta acessar, basta acessar o [link do perfil!](https://github.com/FabianaTavares/FabianaTavares/sub-readme/README.md)
+- To continue viewing courses with certifications and other knowledge just access, just access the [link do profile!](https://github.com/FabianaTavares/FabianaTavares/tree/main/sub-readme/README.md)
+- Para continuar visualizando cursos com certificações e outros conhecimentos basta acessar, basta acessar o [link do perfil!](https://github.com/FabianaTavares/FabianaTavares/tree/main/sub-readme/README.md)
