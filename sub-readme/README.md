@@ -76,7 +76,7 @@ continues:
 - Fundamentos de SASS e Compass - Autor: Maurício Samy Silva - Novatec 2016
 - Segurança para desenvolvedores web Usando JavaScript, HTML e CSS - Autor: John Paul Mueller - Novatec 2016
 - Introdução ao SEO: Seu Guia Rápido às Práticas Eficientes de SEO - Novatec 2016
-- Git. Guia Prático - Autor: Richard E. Silverman - O1Reilly 2013
+- Git. Guia Prático - Autor: Richard E. Silverman - O'Reilly 2013
 - Código Limpo Habilidades Práticas do Agile Software - Autor: Robert C. Martin - 2012 - Lido em 2022
 - O Design do Dia a Dia - Donald A. Norman - 2006 - Lido em 2022
 -
