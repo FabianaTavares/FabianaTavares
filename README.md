@@ -57,19 +57,19 @@ These are some of the technologies and tools that I work with:
 
 </p>
 
-### 🚀 Mentoring - As a mentor / Mentorias - Como mentor
+## 🚀 Mentoring - As a mentor / Mentorias - Como mentor
 
 - João Vitor Clavihlo: Programa Padawans - Episódio III Ano 2021 - Empresa Framework Digital.
 - Gabriel Oliveira: Programa Padawans - Episódio IV Ano 2021 - Empresa Framework Digital.
 - Mariane dos Santos: Mentoria Particular - Ano 2022 .
 - Alef Bryan:  Mentoria Particular - Ano 2022.
 
-### 🚀 Academic education / Formação Academica
+## 🚀 Academic education / Formação Academica
 
 - Graduação em Tecnologia de Sistema para Internet - UNIBH - 2011.
 - Pós-Graduação Lato Sensu - Design de Interação IGTI - 2022.
 
-### 🚀 My Certifications / Minhas Certificações
+## 🚀 My Certifications / Minhas Certificações
 
 - MCPS: Microsoft Certified Professional - 2013.
 - Exam 480: Programming in HTML5 with Javascript and CSS3 - Microsoft - 2013.
