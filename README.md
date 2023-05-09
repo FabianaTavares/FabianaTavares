@@ -59,25 +59,24 @@ These are some of the technologies and tools that I work with:
 
 ### 🚀 Mentoring - As a mentor / Mentorias - Como mentor
 
-<p>João Vitor Clavihlo: Programa Padawans - Episódio III Ano 2021 - Empresa Framework Digital</p>
-<p>Gabriel Oliveira: Programa Padawans - Episódio IV Ano 2021 - Empresa Framework Digital</p>
-<p>Mariane dos Santos: Mentoria Particular - Ano 2022 </p>
-<p>Alef Bryan:  Mentoria Particular - Ano 2022</p>
-
+- João Vitor Clavihlo: Programa Padawans - Episódio III Ano 2021 - Empresa Framework Digital.
+- Gabriel Oliveira: Programa Padawans - Episódio IV Ano 2021 - Empresa Framework Digital.
+- Mariane dos Santos: Mentoria Particular - Ano 2022 .
+- Alef Bryan:  Mentoria Particular - Ano 2022.
 
 ### 🚀 Academic education / Formação Academica
 
-<p>Graduação em Tecnologia de Sistema para Internet - UNIBH - 2011</p>
-<p>Pós-Graduação Lato Sensu - Design de Interação IGTI - 2022</p>
+- Graduação em Tecnologia de Sistema para Internet - UNIBH - 2011.
+- Pós-Graduação Lato Sensu - Design de Interação IGTI - 2022.
 
 ### 🚀 My Certifications / Minhas Certificações
 
-<p>MCPS: Microsoft Certified Professional - 2013</p>
-<p>Exam 480: Programming in HTML5 with Javascript and CSS3 - Microsoft - 2013</p>
-<p>MS: Programming in HTML5 with Javascript and CSS3 - Microsoft - 2013</p>
-<p>Scrum Fundamentals Cerfified - SCRUMStudy - 2018 até 2021</p>
-<p>Angular - Loiane Groner - 2020</p>
-<p>Java Básico - Loiane Groner - 2018</p>
+- MCPS: Microsoft Certified Professional - 2013.
+- Exam 480: Programming in HTML5 with Javascript and CSS3 - Microsoft - 2013.
+- MS: Programming in HTML5 with Javascript and CSS3 - Microsoft - 2013.
+- Scrum Fundamentals Cerfified - SCRUMStudy - 2018 até 2021.
+- Angular - Loiane Groner - 2020.
+- Java Básico - Loiane Groner - 2018.
 
-To continue viewing courses with certifications and other knowledge just access, just access the [link do profile!](https://github.com/FabianaTavares/FabianaTavares/sub-readme/README.md)
-Para continuar visualizando cursos com certificações e outros conhecimentos basta acessar, basta acessar o [link do perfil!](https://github.com/FabianaTavares/FabianaTavares/sub-readme/README.md)
+- To continue viewing courses with certifications and other knowledge just access, just access the [link do profile!](https://github.com/FabianaTavares/FabianaTavares/sub-readme/README.md)
+- Para continuar visualizando cursos com certificações e outros conhecimentos basta acessar, basta acessar o [link do perfil!](https://github.com/FabianaTavares/FabianaTavares/sub-readme/README.md)
