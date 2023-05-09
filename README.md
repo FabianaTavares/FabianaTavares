@@ -57,6 +57,15 @@ These are some of the technologies and tools that I work with:
 
 </p>
 
+
+### 🚀 What do I need to delve into right now? / O que preciso aprofundar no momento? - 2023
+
+- Utilizar o StoryBook para documentar interfaces de Componentes Genéricos no Angular, ideal para quem pretende implementar um Design System no Projeto.
+- Testes Unitários com Jasmine no Angular.
+- Testes Automátizados de Cypress no Angular.
+- Utilizar com mais frequência o Sonar Queube.
+- Implementar o Redux em Projetos Angular que façam sentido.
+
 ### 🚀 Mentoring - As a mentor / Mentorias - Como mentor
 
 - João Vitor Clavihlo: Programa Padawans - Episódio III Ano 2021 - Empresa Framework Digital.
