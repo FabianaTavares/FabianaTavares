@@ -21,14 +21,14 @@ Here are some ideas:
 
 These are some of the technologies and tools that I work with:
 
-<p>First: 
+<p>First:
 
 [![Love Angular badge](https://img.shields.io/badge/angular-love-blue?logo=angular&angular=love)](https://www.github.com/angular/angular)
 </p>
- 
+
 <p>
 <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
@@ -46,7 +46,7 @@ These are some of the technologies and tools that I work with:
 <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?&style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
@@ -56,3 +56,28 @@ These are some of the technologies and tools that I work with:
 <img src="https://img.shields.io/badge/-swagger-339933?style=for-the-badge"/>
 
 </p>
+
+### 🚀 Mentoring - As a mentor / Mentorias - Como mentor
+
+<p>João Vitor Clavihlo: Programa Padawans - Episódio III Ano 2021 - Empresa Framework Digital</p>
+<p>Gabriel Oliveira: Programa Padawans - Episódio IV Ano 2021 - Empresa Framework Digital</p>
+<p>Mariane dos Santos: Mentoria Particular - Ano 2022 </p>
+<p>Alef Bryan:  Mentoria Particular - Ano 2022</p>
+
+
+### 🚀 Academic education / Formação Academica
+
+<p>Graduação em Tecnologia de Sistema para Internet - UNIBH - 2011</p>
+<p>Pós-Graduação Lato Sensu - Design de Interação IGTI - 2022</p>
+
+### 🚀 My Certifications / Minhas Certificações
+
+<p>MCPS: Microsoft Certified Professional - 2013</p>
+<p>Exam 480: Programming in HTML5 with Javascript and CSS3 - Microsoft - 2013</p>
+<p>MS: Programming in HTML5 with Javascript and CSS3 - Microsoft - 2013</p>
+<p>Scrum Fundamentals Cerfified - SCRUMStudy - 2018 até 2021</p>
+<p>Angular - Loiane Groner - 2020</p>
+<p>Java Básico - Loiane Groner - 2018</p>
+
+To continue viewing courses with certifications and other knowledge just access, just access the [link do profile!](https://github.com/FabianaTavares/FabianaTavares/sub-readme/README.md)
+Para continuar visualizando cursos com certificações e outros conhecimentos basta acessar, basta acessar o [link do perfil!](https://github.com/FabianaTavares/FabianaTavares/sub-readme/README.md)
