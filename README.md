@@ -58,7 +58,10 @@ These are some of the technologies and tools that I work with:
 </p>
 
 
-[![Fabi Tavares GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianaTavares&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)]
+### My GitHub Stats
+
+
+![Fabi Tavares GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianaTavares&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
 
 
 - To continue viewing courses with certifications and other knowledge just access, just access the [link do profile!](https://github.com/FabianaTavares/FabianaTavares/tree/main/sub-readme/README.md)
