@@ -2,6 +2,36 @@
 
 continues:
 
+
+### 🚀 What do I need to delve into right now? / O que preciso aprofundar no momento? - 2023
+
+- Utilizar o StoryBook para documentar interfaces de Componentes Genéricos no Angular, ideal para quem pretende implementar um Design System no Projeto.
+- Testes Unitários com Jasmine no Angular.
+- Testes Automátizados de Cypress no Angular.
+- Utilizar com mais frequência o Sonar Queube.
+- Implementar o Redux em Projetos Angular que façam sentido.
+
+### 🚀 Mentoring - As a mentor / Mentorias - Como mentor
+
+- João Vitor Clavihlo: Programa Padawans - Episódio III Ano 2021 - Empresa Framework Digital.
+- Gabriel Oliveira: Programa Padawans - Episódio IV Ano 2021 - Empresa Framework Digital.
+- Mariane dos Santos: Mentoria Particular - Ano 2022 .
+- Alef Bryan:  Mentoria Particular - Ano 2022.
+
+### 🚀 Academic education / Formação Academica
+
+- Graduação em Tecnologia de Sistema para Internet - UNIBH - 2011.
+- Pós-Graduação Lato Sensu - Design de Interação IGTI - 2022.
+
+### 🚀 My Certifications / Minhas Certificações
+
+- MCPS: Microsoft Certified Professional - 2013.
+- Exam 480: Programming in HTML5 with Javascript and CSS3 - Microsoft - 2013.
+- MS: Programming in HTML5 with Javascript and CSS3 - Microsoft - 2013.
+- Scrum Fundamentals Cerfified - SCRUMStudy - 2018 até 2021.
+- Angular - Loiane Groner - 2020.
+- Java Básico - Loiane Groner - 2018.
+
 ### 🚀 Courses With Certification / Cursos Com Certificação
 
 - Angular Parte 1: Fundamentos - Alura - 2020

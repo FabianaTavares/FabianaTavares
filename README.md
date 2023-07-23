@@ -61,34 +61,5 @@ These are some of the technologies and tools that I work with:
 [![Fabi Tavares GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianaTavares&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)]
 
 
-### 🚀 What do I need to delve into right now? / O que preciso aprofundar no momento? - 2023
-
-- Utilizar o StoryBook para documentar interfaces de Componentes Genéricos no Angular, ideal para quem pretende implementar um Design System no Projeto.
-- Testes Unitários com Jasmine no Angular.
-- Testes Automátizados de Cypress no Angular.
-- Utilizar com mais frequência o Sonar Queube.
-- Implementar o Redux em Projetos Angular que façam sentido.
-
-### 🚀 Mentoring - As a mentor / Mentorias - Como mentor
-
-- João Vitor Clavihlo: Programa Padawans - Episódio III Ano 2021 - Empresa Framework Digital.
-- Gabriel Oliveira: Programa Padawans - Episódio IV Ano 2021 - Empresa Framework Digital.
-- Mariane dos Santos: Mentoria Particular - Ano 2022 .
-- Alef Bryan:  Mentoria Particular - Ano 2022.
-
-### 🚀 Academic education / Formação Academica
-
-- Graduação em Tecnologia de Sistema para Internet - UNIBH - 2011.
-- Pós-Graduação Lato Sensu - Design de Interação IGTI - 2022.
-
-### 🚀 My Certifications / Minhas Certificações
-
-- MCPS: Microsoft Certified Professional - 2013.
-- Exam 480: Programming in HTML5 with Javascript and CSS3 - Microsoft - 2013.
-- MS: Programming in HTML5 with Javascript and CSS3 - Microsoft - 2013.
-- Scrum Fundamentals Cerfified - SCRUMStudy - 2018 até 2021.
-- Angular - Loiane Groner - 2020.
-- Java Básico - Loiane Groner - 2018.
-
 - To continue viewing courses with certifications and other knowledge just access, just access the [link do profile!](https://github.com/FabianaTavares/FabianaTavares/tree/main/sub-readme/README.md)
 - Para continuar visualizando cursos com certificações e outros conhecimentos basta acessar, basta acessar o [link do perfil!](https://github.com/FabianaTavares/FabianaTavares/tree/main/sub-readme/README.md)
