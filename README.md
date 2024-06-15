@@ -4,11 +4,10 @@
 **FabianaTavares/FabianaTavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-My name is Fabiana, and I'm currently an Angular frontend. I work in the area since 2011 when I majored in Internet Systems Technology. Since then I've worked with Delphi, VB6, Java and mainly PHP backend. And for the past seven years I have dedicated myself to frontEnd. I am Brazilian and I live in the city of BH.
+My name is Fabiana, and I'm currently an Angular frontend. I work in the area since 2011 when I majored in Internet Systems Technology. Since then I've worked with Delphi, VB6, Java and mainly PHP backend. And for the last years I have dedicated myself to frontEnd. I am Brazilian and I live in the city of BH.
 Here are some ideas:
 
-- 🔭 I’m currently working on Angular 13
-- 🌱 I’m currently learning React and Vue
+- 🔭 I’m currently working on Angular and React
 - 😄 Pronouns: persevering
 - ⚡ Fun fact: All things Motorcycle and outdoor live.
 
